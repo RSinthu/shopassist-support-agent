@@ -1,0 +1,1 @@
+"""ShopAssist backend application."""
